@@ -11,10 +11,10 @@
 
 
 ## Скрины демо проекта
-(img/1.png)
-(img/2.png)
-(img/3.png)
-(img/4.png)
-(img/5.png)
-(img/6.png)
-(img/7.png)
+![1](img/1.png)
+![1](img/2.png)
+![1](img/3.png)
+![1](img/4.png)
+![1](img/5.png)
+![1](img/6.png)
+![1](img/7.png)
