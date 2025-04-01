@@ -13,6 +13,11 @@
 
 Ни смог реализовать корзину, в целом с PHP знаком только с универских знаний. Практический опыт имею по python, typescript, vuejs, git. Готов дальше изучать PHP по ходу выполнения дальнейших задач!
 
+## Запуск
+1)git clone "ссылка репозитория"
+2)composer install
+3)change the db info in env file, then "php artisan migrate"
+4)php artisan serve
 ## Скрины демо проекта
 ![1](img/1.png)
 ![2](img/2.jpg)
